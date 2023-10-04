@@ -1,0 +1,9 @@
+Concatenate("https://www.appsheet.com/Template/gettablefileurl?",
+"appname=",encodeurl("ID del app"),
+"&tableName=",encodeurl("NombreDeTuTabla"),
+"&filename=",encodeurl([NombreDelCampoQueTieneElArchivo])
+)
+
+
+Video:
+https://youtu.be/DVSZ4hHdDtM
